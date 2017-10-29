@@ -23,13 +23,12 @@ technologies we want to **learn**.
 
 ## Week organization plan (1)
 
-| Day        | #0         | Mon. #1                     | Tue. #2 - Wen. #3      |
-| ---------- | ---------- | --------------------------- | ---------------------- |
-| **Action** | Brainstorm | Read, learn, hack. Iterate. | Code, review. Iterate. |
+* **Day #0:** Brainstorm. Conceive. Explore.
+* **Day #1:** Read, learn, hack. Iterate.
+* **Day #2 - #3:** Code, review. Iterate.
 
 
 ## Week organization plan (2)
 
-| Day        | Thu. #4               | Fri. #5                      |
-| ---------- | --------------------- | ---------------------------- |
-| **Action** | Bug fix. Communicate. | Polish. Publish. Celebrate 🎉 |
+* **Day #4:** Bug fix. Communicate.
+* **Day #5:** Polish. Publish. Celebrate 🎉
