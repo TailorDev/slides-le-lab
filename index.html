@@ -28,9 +28,13 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section data-markdown>
+        <section
+          data-markdown
+          data-background-color="#2e354f"
+          class="title"
+        >
           <script type="text/template">
-            # Dive into "Le lab"
+            # Dive into _Le lab_
 
             Julien Maupetit – TailorDev
 
@@ -38,6 +42,56 @@
             October 2017</small>
           </script>
         </section>
+
+        <section
+          data-markdown="tailordev.md"
+          data-background-color="#222"
+          class="tailordev"
+          data-separator="^\n\n\n"
+          data-separator-vertical="^\n\n"
+        ></section>
+
+        <section
+          data-markdown="concept.md"
+          class="concept"
+          data-separator="^\n\n\n"
+          data-separator-vertical="^\n\n"
+        ></section>
+
+        <section
+          data-markdown="showcase.md"
+          class="showcase"
+          data-separator="^\n\n\n"
+          data-separator-vertical="^\n\n"
+        ></section>
+
+        <section
+          data-markdown="discussion.md"
+          class="discussion"
+          data-separator="^\n\n\n"
+          data-separator-vertical="^\n\n"
+        ></section>
+
+        <section data-markdown>
+          <script type="text/template">
+            ## 🙏 ! 🖐 ?
+
+            <br>
+            <br>
+            Twitter:
+
+            [@julienmaupetit](https://twitter.com/julienmaupetit) /
+            [@_TailorDev](https://twitter.com/_TailorDev)
+          </script>
+        </section>
+
+        <section
+          data-markdown="announcements.md"
+          data-background-color="#2e354f"
+          class="tailordev"
+          data-separator="^\n\n\n"
+          data-separator-vertical="^\n\n"
+        ></section>
       </div>
     </div>
 
@@ -46,6 +100,11 @@
 
     <script>
       Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+
         dependencies: [
           { src: 'reveal.js/plugin/markdown/marked.js' },
           { src: 'reveal.js/plugin/markdown/markdown.js' },
