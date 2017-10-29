@@ -1,4 +1,4 @@
-# Our showcase.
+# Showcase.
 
 
 ## Monod
@@ -17,6 +17,8 @@ https://monod.lelab.tailordev.fr
 https://franklin.lelab.tailordev.fr
 
 🤓 React & SVG, Redux.
+
+> Looking for a Master 2 internship?
 
 
 ## Crick

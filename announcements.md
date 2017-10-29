@@ -1,11 +1,4 @@
-## Announcements 🚀
-
-
-### Looking for an internship?
-
-Master 2 (Computer Science, Bioinformatics)
-
-> Franklin, an open platform to manage DNA primer libraries
+## Announcement 🚀
 
 
 ### Register to our training sessions, now!
