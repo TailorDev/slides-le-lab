@@ -34,4 +34,4 @@ https://app.crick.io
 
 https://pauling.lelab.tailordev.fr/
 
-🤓 Mobile development, ReactNative.
+🤓 Mobile development, React Native.

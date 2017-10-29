@@ -3,7 +3,7 @@
 
 ## TL;DR
 
-> A Le lab session is a **week** devoted to set up a **POC** with new tools and
+> A Le lab session is a **week** devoted to set up a **MVP** with new tools and
 technologies we want to **learn**.
 
 
@@ -14,7 +14,7 @@ technologies we want to **learn**.
 3. Build something useful
 
 
-## Constrains
+## Rules
 
 * **Time** matters: one single week
 * **Quality** matters: test, CI, CD
