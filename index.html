@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Dive into Le lab — Julien Maupetit, TailorDev</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,600,600i" rel="stylesheet">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/reveal-theme.css">
+
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+
+    <!-- Custom fonts/theme -->
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown>
+          <script type="text/template">
+            # Dive into "Le lab"
+
+            Julien Maupetit – TailorDev
+
+            <small>[Clermont'ech/APIHour #31](http://clermontech.org/api-hours/api-hour-31.html),
+            October 2017</small>
+          </script>
+        </section>
+      </div>
+    </div>
+
+    <script src="reveal.js/lib/js/head.min.js"></script>
+    <script src="reveal.js/js/reveal.js"></script>
+
+    <script>
+      Reveal.initialize({
+        dependencies: [
+          { src: 'reveal.js/plugin/markdown/marked.js' },
+          { src: 'reveal.js/plugin/markdown/markdown.js' },
+          { src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+        ]
+      });
+    </script>
+  </body>
+</html>
