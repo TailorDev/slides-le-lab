@@ -7,7 +7,9 @@
 
 https://monod.lelab.tailordev.fr
 
-🤓 React & modern JavaScript development stack.
+<div class="learnt">
+  🤓 React & modern JavaScript development stack.
+</div>
 
 
 ## Franklin
@@ -16,9 +18,11 @@ https://monod.lelab.tailordev.fr
 
 https://franklin.lelab.tailordev.fr
 
-🤓 React & SVG, Redux.
+<div class="learnt">
+  🤓 React & SVG, Redux.
+</div>
 
-> Looking for a Master 2 internship?
+_Looking for a Master 2 internship?_
 
 
 ## Crick
@@ -27,7 +31,9 @@ https://franklin.lelab.tailordev.fr
 
 https://app.crick.io
 
-🤓 Apiary, Go, Auth0, Material-UI.
+<div class="learnt">
+  🤓 Apiary, Go, Auth0, Material-UI.
+</div>
 
 
 ## Pauling
@@ -36,4 +42,6 @@ https://app.crick.io
 
 https://pauling.lelab.tailordev.fr/
 
-🤓 Mobile development, React Native.
+<div class="learnt">
+  🤓 Mobile development, React Native.
+</div>

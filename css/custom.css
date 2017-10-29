@@ -1,11 +1,12 @@
-section.title h1 {}
-
-section.tailordev {
-  background: #222;
-  color: #fff;
-}
-
 .reveal h2,
 .reveal h3 {
   margin-bottom: 3rem;
+}
+
+.reveal .learnt {
+  padding: 1rem;
+  font-family: monospace;
+  font-size: 1.6rem;
+  background-color: #222;
+  color: #fff;
 }
