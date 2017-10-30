@@ -3,7 +3,7 @@
 
 ## Difficulties you may struggle with
 
-* Book a Le lab week
+* Book a hack week
 * Find a doable/useful idea
 * Scaling issue with large teams
 
@@ -20,7 +20,7 @@
 
 * You need a neutral, external place to work
 * Prevent features overflow
-* Split a Le Lab session does not work
+* Split a hack session does not work
 * Four sessions per year is a good ratio
 
 > Open source your work!
