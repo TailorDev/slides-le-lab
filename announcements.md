@@ -1,6 +1,3 @@
-## Announcement 🚀
-
-
 ### Register to our training sessions, now!
 
 * Git 101: [23 November, 2017](https://www.eventbrite.fr/e/billets-git-101-38071411617?aff=erelpanelorg)
